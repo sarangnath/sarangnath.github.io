@@ -1,1 +1,33 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sarang Sunil Nath
+    - name: Date of Birth
+      value: 28th September 1993
+    - name: Email
+      value: nathsarang [at] gmail [dot] com
+    - name: Languages
+      value: English, Hindi, Kannada, French
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Chemical Engineering
+      institution: Technical University of Denmark
+      year: 2019 - 2022
+      description:
+        - Research at the Novo Nordisk Foundation Center for Biosustainability
+        – Co-advised by Prof. Lars Nielsen and Prof. John Villadsen
+    - title: M. S. in Chemical Engineering
+      institution: Stanford University
+      year: 2015 - 2018
+      description:
+        - Research work in group of Prof. Alexander Dunn
+        – Course GPA: 3.904/4 
+    - title: B. Tech. in Chemical Engineering
+      institution: Indian Institute of Technology Delhi
+      year: 2011 - 2015
+      description:
+        - First position in the graduating batch with a GPA of 9.849/10
+        – Minor Area in Biological Sciences
