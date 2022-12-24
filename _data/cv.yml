@@ -16,18 +16,21 @@
     - title: Ph.D. in Chemical Engineering
       institution: Technical University of Denmark
       year: 2019 - 2022
+      description:
+        - Research at the Novo Nordisk Foundation Center for Biosustainability
+        – Co-advised by Prof. Lars Nielsen and Prof. John Villadsen
     - title: M. S. in Chemical Engineering
       institution: Stanford University
       year: 2015 - 2018
-      #description:
-      #  - Description 1.
-      #  - Description 2.
+      description:
+        - Research work in group of Prof. Alexander Dunn
+        – Course GPA: 3.904/4 
     - title: B. Tech. in Chemical Engineering
       institution: Indian Institute of Technology Delhi
       year: 2011 - 2015
-      #description:
-      #  - Description 1.
-      #  - Description 2.
+      description:
+        - First position in the graduating batch with a GPA of 9.849/10
+        – Minor Area in Biological Sciences
 
 - title: Experience
   type: time_table
