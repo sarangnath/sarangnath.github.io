@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Sarang Sunil Nath
-    #- name: Date of Birth
-    #  value: 28th September 1993
+    - name: Date of Birth
+      value: 28th September 1993
     - name: Email
       value: nathsarang [at] gmail [dot] com
     - name: Languages
@@ -32,12 +32,12 @@
         - First position in the graduating batch with a GPA of 9.849/10
         – Minor Area in Biological Sciences
         
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Modelling of biochemical and biophysical networks
-    - title: Dynamics of mechanobiological systems
-    - title: Mechanism of molecular motors and ion channels
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Modelling of biochemical and biophysical networks
+#     - title: Dynamics of mechanobiological systems
+#     - title: Mechanism of molecular motors and ion channels
 
 - title: Experience
   type: time_table
