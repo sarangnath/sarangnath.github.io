@@ -2,20 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Junshen Xu
-    #- name: Date of Birth
-    #  value: 14th March 1879
+      value: Sarang Sunil Nath
+    - name: Date of Birth
+      value: 28th September 1993
     - name: Email
-      value: junshen [at] mit [dot] edu
+      value: nathsarang [at] gmail [dot] com
     - name: Languages
-      value: English, Chinese
+      value: English, Hindi, Kannada, French
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2023
+    - title: Ph.D. in Chemical Engineering
+      institution: Technical University of Denmark
+      year: 2019 - 2022
+      description:
+          - Research at the Novo Nordisk Foundation Center for Biosustainability
+          - Co-advised by Prof. Lars Nielsen and Prof. John Villadsen
     - title: S.M. in Electrical Engineering and Computer Science
       institution: Massachusetts Institute of Technology
       year: 2018 - 2020
