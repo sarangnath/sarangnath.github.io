@@ -2,32 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Sarang Sunil Nath
-    - name: Date of Birth
-      value: 28th September 1993
+      value: Junshen Xu
+    #- name: Date of Birth
+    #  value: 14th March 1879
     - name: Email
-      value: nathsarang [at] gmail [dot] com
+      value: junshen [at] mit [dot] edu
     - name: Languages
-      value: English, Hindi, Kannada, French
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Chemical Engineering
-      institution: Technical University of Denmark
-      year: 2019 - 2022
+    - title: Ph.D. in Electrical Engineering and Computer Science
+      institution: Massachusetts Institute of Technology
+      year: 2018 - 2023
+    - title: S.M. in Electrical Engineering and Computer Science
+      institution: Massachusetts Institute of Technology
+      year: 2018 - 2020
+      #description:
+      #  - Description 1.
+      #  - Description 2.
+    - title: B.E. in Engineering Physics
+      institution: Tsinghua University
+      year: 2014 - 2018
+      #description:
+      #  - Description 1.
+      #  - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Massachusetts Institute of Technology
+      year: 2018 - present
       description:
-        - Research at the Novo Nordisk Foundation Center for Biosustainability
-        – Co-advised by Prof. Lars Nielsen and Prof. John Villadsen
-    - title: M. S. in Chemical Engineering
+        - 2D-to-3D reconstruction
+        - Image quality assessment
+        - 3D pose estimation pipeline for fetal MRI
+    - title: Machine Learning Engineer Intern
+      institution: Instagram Reels Core Ranking @ Meta
+      year: May - Aug 2022
+      description:
+        - Mitigated short video bias in Reels
+    - title: Software Engineer Intern
+      institution: Adwords Insights Team @ Google
+      year: Jun - Aug 2021
+      description:
+        - Improved keyword classification in search ads
+        - Developed algorithms to detect the cold start of bidding strategies
+    - title: Research Scientist Intern
+      institution: United Imaging Intellignece America
+      year: Jun - Aug 2020
+      description:
+        - Multi-modal image registration with neural ODE
+        - Differentiable Digitally Reconstructed Radiograph (DRR)
+    - title: Research Assistant
       institution: Stanford University
-      year: 2015 - 2018
+      year: Jun - Aug 2017
       description:
-        - Research work in group of Prof. Alexander Dunn
-        – Course GPA: 3.904/4 
-    - title: B. Tech. in Chemical Engineering
-      institution: Indian Institute of Technology Delhi
-      year: 2011 - 2015
-      description:
-        - First position in the graduating batch with a GPA of 9.849/10
-        – Minor Area in Biological Sciences
+        - Low dose PET reconstruction with deep learning
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
