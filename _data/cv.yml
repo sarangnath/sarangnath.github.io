@@ -48,12 +48,6 @@
       description:
         - Developing improved isotope labelling schemes to study the kinetics of chemical reaction networks
         – Applying and improving Bayesian methods to solve whole-cell models and extract cellular dynamics
-    - title: Representing Reaction Networks as Electrical Circuits
-      institution: DTU Biosustain
-      year: June 2019 - present
-      description:
-        - Transforming chemical and biochemical reactive systems into equivalent modular electrical circuits
-        – Applying this approach on chaotic systems (Olsen attractor) and cyclic mechanisms (DHFR pathway)
 
 - title: Teaching
   type: time_table
