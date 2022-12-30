@@ -46,10 +46,10 @@
       institution: DTU Biosustain
       year: June 2019 - present
       description:
-        - Advised by Prof. Lars Nielsen and Prof. John Villadsen
-        - Developing improved isotope labelling schemes to study the kinetics of chemical reaction networks
-        – Applying and improving Bayesian methods to solve whole-cell models and extract cellular dynamics
-
+          - 2D-to-3D reconstruction
+          - Image quality assessment
+          - 3D pose estimation pipeline for fetal MRI
+        
 - title: Teaching
   type: time_table
   contents:
