@@ -55,20 +55,6 @@
       description:
         - Advised by Prof. Lars Nielsen and Prof. John Villadsen
         - Transformed chemical and biochemical reactive systems into equivalent modular electrical circuits
-        - Applied this approach to chaotic systems (Olsen attractor) and cyclic mechanisms (DHFR pathway)
-    - title: Kinetic Modelling of Large-Scale Metabolic Networks
-      institution: DTU Biosustain
-      year: June 2019 - present
-      description:
-        - Advised by Prof. Lars Nielsen and Prof. John Villadsen
-        - Developed improved isotope labelling schemes to study the kinetics of chemical reaction networks
-        - Applied and improved Bayesian methods to solve whole-cell models and extract cellular dynamics
-    - title: Representing Reaction Networks as Electrical Circuits
-      institution: DTU Biosustain
-      year: June 2019 - present
-      description:
-        - Advised by Prof. Lars Nielsen and Prof. John Villadsen
-        - Transformed chemical and biochemical reactive systems into equivalent modular electrical circuits
         - Applied this approach to chaotic systems (Olsen attractor) and cyclic mechanisms (DHFR pathway)        
  
 - title: Teaching
