@@ -24,7 +24,7 @@
       year: 2015 - 2018
       description:
           - Research work in group of Prof. Alexander Dunn
-          - Course GPA = 3.904/4
+          - Course GPA of 3.904/4
     - title: B. Tech. in Chemical Engineering
       institution: Indian Institute of Technology Delhi
       year: 2011 - 2015
@@ -32,10 +32,20 @@
           - First position in the graduating batch with a GPA of 9.849/10
           - Minor Area in Biological Sciences
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: TA in Chemical Kinetics and Reaction Engineering, Stanford University
+      institution: Stanford University
+      year: March - June 2017
+    - title: TA in Chemical Kinetics and Reaction Engineering, Stanford University
+      institution: Stanford University
+      year: March - June 2018
+
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Kinetic Modelling of Large-Scale Metabolic Networks
       institution: Massachusetts Institute of Technology
       year: 2018 - present
       description:
