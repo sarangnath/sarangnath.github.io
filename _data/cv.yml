@@ -39,16 +39,16 @@
     - Alternative representations and mathematical solution of reactive systems
     - Mechanism of molecular motors and ion channels
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Kinetic Modelling of Large-Scale Metabolic Networks
-#       institution: DTU Biosustain
-#       year: June 2019 - present
-#       description:
-#         - Advised by Prof. Lars Nielsen and Prof. John Villadsen
-#         - Developed improved isotope labelling schemes to study the kinetics of chemical reaction networks
-#         - Applied and improved Bayesian methods to solve whole-cell models and extract cellular dynamics
+- title: Experience
+  type: time_table
+  contents:
+    - title: Kinetic Modelling of Large-Scale Metabolic Networks
+      institution: DTU Biosustain
+      year: June 2019 - present
+      description:
+        - Advised by Prof. Lars Nielsen and Prof. John Villadsen
+        - Developed improved isotope labelling schemes to study the kinetics of chemical reaction networks
+        - Applied and improved Bayesian methods to solve whole-cell models and extract cellular dynamics
 #     - title: Representing Reaction Networks as Electrical Circuits
 #       institution: DTU Biosustain
 #       year: June 2019 - present
