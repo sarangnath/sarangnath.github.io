@@ -32,16 +32,6 @@
           - First position in the graduating batch with a GPA of 9.849/10
           - Minor Area in Biological Sciences
 
-- title: Teaching
-  type: time_table
-  contents:
-    - title: TA in Chemical Kinetics and Reaction Engineering, Stanford University
-      institution: Stanford University
-      year: March - June 2017
-    - title: TA in Chemical Kinetics and Reaction Engineering, Stanford University
-      institution: Stanford University
-      year: March - June 2018
-
 - title: Experience
   type: time_table
   contents:
@@ -75,6 +65,16 @@
       description:
         - Low dose PET reconstruction with deep learning
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: TA in Chemical Kinetics and Reaction Engineering
+      institution: Stanford University
+      year: March - June 2018
+    - title: TA in Chemical Kinetics and Reaction Engineering
+      institution: Stanford University
+      year: March - June 2017
+
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
@@ -105,7 +105,7 @@
 #         - Description 1.
 #         - Description 2.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Tabla, Board games, Tennis.
