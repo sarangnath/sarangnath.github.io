@@ -33,16 +33,11 @@
           - Minor Area in Biological Sciences
           
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Analytical and computational modeling of biochemical and biophysical networks
+    - Alternative representations and mathematical solution of reactive systems
+    - Mechanism of molecular motors and ion channels
 
 - title: Experience
   type: time_table
