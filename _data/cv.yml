@@ -31,68 +31,7 @@
       description:
           - First position in the graduating batch with a GPA of 9.849/10
           - Minor Area in Biological Sciences
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Kinetic Modelling of Large-Scale Metabolic Networks
-      institution: Massachusetts Institute of Technology
-      year: 2018 - present
-      description:
-        - 2D-to-3D reconstruction
-        - Image quality assessment
-        - 3D pose estimation pipeline for fetal MRI
-    - title: Machine Learning Engineer Intern
-      institution: Instagram Reels Core Ranking @ Meta
-      year: May - Aug 2022
-      description:
-        - Mitigated short video bias in Reels
-    - title: Software Engineer Intern
-      institution: Adwords Insights Team @ Google
-      year: Jun - Aug 2021
-      description:
-        - Improved keyword classification in search ads
-        - Developed algorithms to detect the cold start of bidding strategies
-    - title: Research Scientist Intern
-      institution: United Imaging Intellignece America
-      year: Jun - Aug 2020
-      description:
-        - Multi-modal image registration with neural ODE
-        - Differentiable Digitally Reconstructed Radiograph (DRR)
-    - title: Research Assistant
-      institution: Stanford University
-      year: Jun - Aug 2017
-      description:
-        - Low dose PET reconstruction with deep learning
-
-- title: Teaching
-  type: time_table
-  contents:
-    - title: TA in Chemical Kinetics and Reaction Engineering
-      institution: Stanford University
-      year: March - June 2018
-    - title: TA in Chemical Kinetics and Reaction Engineering
-      institution: Stanford University
-      year: March - June 2017
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
+          
 - title: Academic Interests
   type: nested_list
   contents:
@@ -105,7 +44,39 @@
         - Description 1.
         - Description 2.
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Kinetic Modelling of Large-Scale Metabolic Networks
+      institution: Massachusetts Institute of Technology
+      year: 2018 - present
+      description:
+        - 2D-to-3D reconstruction
+        - Image quality assessment
+        - 3D pose estimation pipeline for fetal MRI
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: TA in Chemical Kinetics and Reaction Engineering
+      institution: Stanford University
+      year: March - June 2018
+    - title: TA in Chemical Kinetics and Reaction Engineering
+      institution: Stanford University
+      year: March - June 2017
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
 - title: Other Interests
   type: list
   contents:
-    - Tabla, Board games, Tennis.
+    - Tennis, Board games, Tabla
